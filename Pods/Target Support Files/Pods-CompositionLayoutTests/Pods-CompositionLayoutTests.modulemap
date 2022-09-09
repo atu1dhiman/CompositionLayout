@@ -1,0 +1,6 @@
+framework module Pods_CompositionLayoutTests {
+  umbrella header "Pods-CompositionLayoutTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
